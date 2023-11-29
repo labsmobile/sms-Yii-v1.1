@@ -2,7 +2,7 @@
   <img src="https://avatars.githubusercontent.com/u/152215067?s=200&v=4" height="80">
 </p>
 
-# LabsMobile-Moodle
+# LabsMobile-Yii-v1.1
 
 ![](https://img.shields.io/badge/version-1.0.0-blue.svg)
  
@@ -19,7 +19,7 @@ Labsmobile API documentation can be found [here][apidocs].
 ## Requirements
 
 - Yii 1.1. More info at [Yii Framework][yiiframework].
-- A user account with LabsMobile. Click on the link to create an account[here][signUp].
+- A user account with LabsMobile. Click on the link to create an account [here][signUp].
 
 ## Installation
 
